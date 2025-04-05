@@ -1,2 +1,2 @@
-# A/B-group-splitter
+# A/B group splitter
 utility to generate A/B groups
